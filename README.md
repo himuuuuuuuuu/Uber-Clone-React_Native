@@ -13,5 +13,3 @@ Built a React Native application using EXPO Framework which allows users to ente
 -  Scan the QR code and install the Expo app
 -  Click on uber-clone
 
-# Uber-Clone-React_Native
->>>>>>> bdf430370cf7ae0cf4644719635aaf3dc3b96490
