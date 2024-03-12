@@ -16,13 +16,13 @@ const data = [
     id: "123",
     icon: "home",
     location: "Home",
-    destination: "Noida, India",
+    destination: "Surat, India",
   },
   {
     id: "456",
     icon: "briefcase",
     location: "Work",
-    destination: "Gurgaon, India",
+    destination: "Varodadra, India",
   },
 ];
 
