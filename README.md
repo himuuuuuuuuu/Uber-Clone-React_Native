@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Uber-Clone React-Native-App
 
 Built a React Native application using EXPO Framework which allows users to enter start location and destination and it displays the cost of cabs based on the type selected.
